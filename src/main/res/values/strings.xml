@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pizza Order</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="submit">Submit</string>
+    <string name="pizza">Pizza(180Rs)</string>
+    <string name="margharetta">Extra Chesse(50Rs)</string>
+    <string name="non_vegiterian">Tomatoes(20Rs)</string>
+    <string name="fully_vegeterian">Sweet Corn(20Rs)</string>
+    <string name="topping">Topping</string>
+    <string name="place_order">Place Order</string>
+    <string name="increase">+</string>
+    <string name="decrease">-</string>
+</resources>
